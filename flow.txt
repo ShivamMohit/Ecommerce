@@ -1,0 +1,18 @@
+frontend
+
+home
+product listing
+product details
+cart
+login
+register
+my lists
+orders
+search
+my account
+contact
+about
+
+backend
+
+api
